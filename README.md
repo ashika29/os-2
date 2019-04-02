@@ -1,2 +1,2 @@
-# os-2
+# os-2/q50
 Second question from OS project
